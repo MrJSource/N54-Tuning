@@ -1,0 +1,19 @@
+Edit Log for n54 17t version1.bin created by TunerPro.
+**************************************************************************
+02/17/2024 15:50:59  Table:     Boost Ceiling changed.
+02/17/2024 15:52:36  Table:     Requested Torque Limit (Driver) changed.
+02/17/2024 18:48:38  Table:     Torque Limit Offset A changed.
+02/17/2024 18:49:39  Table:     Torque Monitor Ceiling  changed.
+02/17/2024 18:50:38  Table:     Load Limit Factor changed.
+02/17/2024 18:51:35  Table:     Boost Limit Multiplier changed.
+02/17/2024 18:54:04  Table:     2FA3 (Coding Missing) changed.
+02/17/2024 18:54:37  Table:     30FF (Underboost Code) changed.
+02/18/2024 10:34:09  Table:     Load Target per Gear changed.
+02/18/2024 10:35:19  Table:     Enable Custom 3D Boost Ceiling Table changed.
+02/18/2024 10:37:34  Table:     Boost Ceiling (Relative) (Gear x RPM) (Map 1) - RPM changed.
+02/18/2024 10:44:15  Table:     Boost Ceiling (Relative) (Gear x RPM) (Map 1) changed.
+02/18/2024 10:46:54  Table:     WGDC Adder(AirFlow) X changed.
+02/18/2024 10:49:10  Table:     WGDC (Base) X changed.
+02/18/2024 10:52:38  Table:     WGDC Adder (Airflow) changed.
+02/18/2024 10:54:15  Table:     WGDC Ceiling (Adder) changed.
+02/18/2024 10:58:25  Table:     Fuel Scalar changed.

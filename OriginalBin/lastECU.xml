@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ECUInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Vin>WBANV93588CW51516</Vin>
+  <Vin_CASFRM>WBANV93588CW51516</Vin_CASFRM>
+  <LatestSoftware>IJE0S</LatestSoftware>
+  <mECUMdl>MSD81</mECUMdl>
+  <ZBNR>7636872</ZBNR>
+  <factoryZBNR>7590760</factoryZBNR>
+  <lastFlashName>v10.0 stg 2+ 91_95</lastFlashName>
+  <ECUtype>MSD80cst</ECUtype>
+</ECUInfo>
